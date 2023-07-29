@@ -2,3 +2,5 @@
 
 
 This is the first test to test some commands and understand the staging area.
+
+Now I want to see the changes made to my file using the "git show" command when saving this new version.
