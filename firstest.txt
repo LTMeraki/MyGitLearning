@@ -1,0 +1,4 @@
+¡Helloooou!
+
+
+This is the first test to test some commands and understand the staging area.
